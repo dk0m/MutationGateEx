@@ -8,4 +8,6 @@ To summarize, resolving SSNs has become possible using the exception directory o
 
 
 ## Credits
-[Resolving System Service Numbers Using The Exception Directory](https://www.mdsec.co.uk/2022/04/resolving-system-service-numbers-using-the-exception-directory/) by [MDSec](https://www.mdsec.co.uk/)
+[Resolving System Service Numbers Using The Exception Directory](https://www.mdsec.co.uk/2022/04/resolving-system-service-numbers-using-the-exception-directory/) by [MDSec](https://www.mdsec.co.uk/).
+
+[MutationGate](https://github.com/senzee1984/MutationGate/) by [senzee1984](https://github.com/senzee1984/)
